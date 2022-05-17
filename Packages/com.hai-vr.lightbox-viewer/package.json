@@ -12,5 +12,6 @@
   "url": "https://github.com/TayouVR/lightbox-viewer.git?path=/Packages/com.hai-vr.lightbox-viewer#1.0.0",
   "dependencies": {
     "com.unity.postprocessing": "3.1.1"
-  }
+  },
+  "type": "template"
 }

@@ -3,7 +3,7 @@
 ### [> Download latest version...](https://github.com/hai-vr/lightbox-viewer/releases)
 - [> Download on GitHub...](https://github.com/hai-vr/lightbox-viewer/releases)
 - [> Download on Booth.pm...](https://hai-vr.booth.pm/items/3870813)
-- Install via UPM Git URL: `https://github.com/TayouVR/lightbox-viewer.git?path=/Packages/com.hai-vr.lightbox-viewer`
+- [> Install via UPM Git URL: `https://github.com/TayouVR/lightbox-viewer.git?path=/Packages/com.hai-vr.lightbox-viewer`](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
 
 *Lightbox Viewer* lets you simultaneously visualize changes in shader material settings under different lighting conditions.
 
