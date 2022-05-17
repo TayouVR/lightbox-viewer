@@ -1,0 +1,16 @@
+{
+  "name": "com.hai-vr.lightbox-viewer",
+  "displayName": "Lightbox Viewer",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Lightbox Viewer lets you simultaneously visualize changes in shader material settings under different lighting conditions.",
+  "author": {
+    "name": "Ha\u00ef~",
+    "email": "",
+    "url": "hai-vr.dev"
+  },
+  "url": "https://github.com/TayouVR/lightbox-viewer.git?path=/Packages/com.hai-vr.lightbox-viewer#1.0.0",
+  "dependencies": {
+    "com.unity.postprocessing": "3.1.1"
+  }
+}
