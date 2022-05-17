@@ -1,0 +1,14 @@
+{
+  "name": "com.hai-vr.lightbox-viewer-resources",
+  "displayName": "Lightbox Viewer Resources",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Resources for Lightbox Viewer",
+  "author": {
+    "name": "Ha\u00ef~",
+    "email": "",
+    "url": "hai-vr.dev"
+  },
+  "url": "https://github.com/TayouVR/lightbox-viewer.git?path=/Packages/com.hai-vr.lightbox-viewer-resources#1.0.0",
+  "type": "sample"
+}
